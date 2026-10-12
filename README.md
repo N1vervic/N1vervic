@@ -1,7 +1,10 @@
-## Hi there 👋
+<h1 align="center"> N1vervic/Muhammad Hanif Farhan 👋 </h1>
 
+<p align="center">
+  <img src="assets/p3r.gif" length="800" alt="Iroha">
+</p>
 
-**N1vervic/N1vervic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kenalin aku Muhammad Hanif Farhan, Mahasiswa Semigap dari Universitas Brawijaya yang sekarang berkuliah di Institut Teknologi Sepuluh Nopember
 
 Here are some ideas to get you started:
 
@@ -14,6 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="center">
-  <img src="assets/iroha.gif" width="400" alt="Iroha">
-</p>
