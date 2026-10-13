@@ -85,3 +85,7 @@
   </p>
 
 </div>
+
+<p align="center">
+  <img src="https://github.com/N1vervic/N1vervic/blob/main/github-metrics.svg" alt="Dino Game" />
+</p>
