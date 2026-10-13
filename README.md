@@ -54,11 +54,12 @@
     <a href="https://www.linkedin.com/in/mhaniffarhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://discord.com/users/787270600136851467"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
     
-  </p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
+  <br><br>
+  <br><br>
+  <br><br>
+  <br><br>
+  <br><br>
+
   <h1>👋 Thank Youu 👋
   <p align="center">
     <img src="assets/minju.gif" width="100%" alt="Iroha">
