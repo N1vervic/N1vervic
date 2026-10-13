@@ -86,6 +86,6 @@
 
 </div>
 
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/N1vervic/N1vervic/main/dino.svg](https://raw.githubusercontent.com/N1vervic/N1vervic/main/dino.svg)" />
+<p align="center" width="100%">
+  <img src="https://raw.githubusercontent.com/N1vervic/N1vervic/output/github-contribution-grid-snake-dark.svg" alt="Contribution Animation" />
 </p>
