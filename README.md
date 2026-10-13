@@ -87,5 +87,5 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/N1vervic/N1vervic/main/github-metrics.svg" alt="Dino Metrics" />
+  <img src="[https://raw.githubusercontent.com/N1vervic/N1vervic/main/dino.svg](https://raw.githubusercontent.com/N1vervic/N1vervic/main/dino.svg)" />
 </p>
