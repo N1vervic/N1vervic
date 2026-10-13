@@ -5,7 +5,11 @@
 </p>
 
 <p align="center"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img alt="VSCode" src="https://shields.io/badge/-Vscode-93f6ef?style=for-the-badge&logo=vscodium&logoColor=white"> </p>
-<p align="center"> <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white" alt="Valorant Badge" /> <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge" /> <img src="https://img.shields.io/badge/League_of_Legends-C89B3C?style=for-the-badge&logo=leagueoflegends&logoColor=white" alt="League of Legends Badge" /></p>
+<p align="center"> 
+  <a href="https://tracker.gg/valorant/profile/riot/Zenshin%23Rena/"> <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white" alt="Valorant Badge"/> </a> 
+  <a href="https://steamcommunity.com/profiles/76561199072464734"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge" /> </a>
+  <a href="https://tracker.gg/lol/profile/riot/Eye%20of%20Horus%23Moon/overview?queue=TEAM_BUILDER_DRAFT_UNRANKED_5x5&season=2026-07-30T04:00:00%2B00:00"><img src="https://img.shields.io/badge/League_of_Legends-C89B3C?style=for-the-badge&logo=leagueoflegends&logoColor=white" alt="League of Legends Badge" /></a>
+</p>
 
 <hr style="border: none; height: 2px; background-color: #333;">
 <div align="center">
