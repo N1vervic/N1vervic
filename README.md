@@ -9,7 +9,12 @@
 <hr style="border: none; height: 2px; background-color: #333;">
 <div align="center">
   <h1> 👋 About Me</h1>
-  <p align="center"><img src="kapal.svg" alt="kapal" width="100%"></p>
+  <p align="center"><img src="assets/kapal.svg" alt="kapal" width="100%"></p>
+  <p align="justify">Muhammad Hanif Farhan, a Statistics student at Institut Teknologi Sepuluh Nopember. I previously studied Information Technology (Vocational Program) at Universitas Brawijaya. I enjoy exploring new things to learn—ranging from how to play games to how to create animations (though I still haven't quite mastered that last one yet :p).</p>
+  <p align="justify">I am currently interning as a Control Sub-division Programmer at Barunastra and undergoing training as a Marketing Consultant at 180DC ITS. You might be wondering why they’re so different, right? Well, that’s exactly the point, I really enjoy learning new things.</p>
+  <p align="center">
+    <img src="assets/iroha.gif" width="400" length="300" alt="Iroha">
+  </p>
 </div> 
 
 <hr style="border: none; height: 2px; background-color: #333;">
