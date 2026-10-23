@@ -37,8 +37,8 @@
 
     <text class="name" x="44" y="100">N1vervic</text>
     <rect class="accent" x="46" y="114" width="150" height="4" rx="2" fill="#5eead4"/>
-    <text class="sub"  x="44" y="150">Undergraduate Statistics Student | Barunastra Internship 2026</text>
-    <text class="tags" x="44" y="184">Python  ·  C++  ·  Excel  ·  learning autonomous vessel software</text>
+    <text class="sub"  x="44" y="150">Undergraduate Statistics Student</text>
+    <text class="tags" x="44" y="184">Python  ·  C++  ·  Excel</text>
 
     <g transform="translate(750 160)">
       <g class="boat">
